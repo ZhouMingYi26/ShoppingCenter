@@ -50,6 +50,7 @@ public class MainActivity extends BaseCompatActivity {
     public void onViewClicked(View view) {
         switch (view.getId()) {
             case R.id.bniv_bar:
+                int a = 0;
                 break;
             case R.id.nv:
                 break;
